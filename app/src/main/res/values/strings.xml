@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheMeApp</string>
+    <string name="name_aminu_wali">Name: Aminu Wali</string>
+    <string name="start_ng_e_mail_ameenum_wali_gmail_com">Start.NG E-mail: ameenum.wali@gmail.com</string>
+    <string name="slack_username_wizzle">Slack Username: Wizzle</string>
+    <string name="tracks">Tracks: Front-End, Mobile, Design, Coding</string>
+</resources>
